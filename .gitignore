@@ -1,0 +1,17 @@
+env/
+al_temp*
+dropin.cache
+docs/build
+*egg-info
+.tox
+venv
+build
+dist
+.idea
+htmlcov/
+.coverage
+.coverage.*
+.cache/
+
+# Windows
+Thumbs.db.egg-info/
